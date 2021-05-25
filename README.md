@@ -3,7 +3,7 @@ About r-alabama
 
 Home: https://CRAN.R-project.org/package=alabama
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alabama-feedstock/blob/master/LICENSE.txt)
 
