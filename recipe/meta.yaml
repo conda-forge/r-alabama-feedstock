@@ -37,7 +37,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=alabama
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: Augmented Lagrangian Adaptive Barrier Minimization Algorithm for optimizing smooth
     nonlinear objective functions with constraints. Linear or nonlinear equality and
     inequality constraints are allowed.
