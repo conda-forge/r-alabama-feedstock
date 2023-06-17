@@ -1,11 +1,11 @@
-About r-alabama
-===============
+About r-alabama-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alabama-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=alabama
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alabama-feedstock/blob/main/LICENSE.txt)
 
 Summary: Augmented Lagrangian Adaptive Barrier Minimization Algorithm for optimizing smooth nonlinear objective functions with constraints. Linear or nonlinear equality and inequality constraints are allowed.
 
