@@ -1,4 +1,4 @@
-{% set version = "2022.4-1" %}
+{% set version = "2023.1.0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,11 +10,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/alabama_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/alabama/alabama_{{ version }}.tar.gz
-  sha256: a8c62859b39a8340ecf7bbf411fac303c059e4237d28ff7bba9ba3daaca1d36c
+  sha256: 925f67c72d9cdb677105377777bd09e9b56a61573bea7e3f69e0a49595c7bf1c
 
 build:
   merge_build_host: true  # [win]
-  number: 2
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
